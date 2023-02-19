@@ -1,2 +1,2 @@
-# HTML_CSS_DESIGN
-I have completed my first assignment by designing a website and index.html page
+# Python_development_with_django
+
